@@ -1,4 +1,7 @@
-# Analysis of Pitchfork Reviews
+## Data Description:
+This is a data set of music reviews from the website Pitchfork.com. The data contains features such as artists, labels, review content, review scores, year, etc.
+
+## Background
 I'm an avid viewer of Pitchfork music reviews, and I wanted to dive deeper into their album scores and how they vary from genre to genre, and year by year. I also wanted to see if there exists a correlation between review length and the score of the review, and also the variation of scores from who wrote the reviews.
 
 
